@@ -1,0 +1,10 @@
+## Arrays & Hashing ( Массивы и хэширование):
+1. [x] [[Contains Duplicate (Содержит дубликаты)]]
+2. [x] [[Valid Anagram (Проверка на анаграмму)]]
+3. [x] [[Two Sum (Сумма двух)]]
+4. [x] [[Group Anagrams (Групповые анаграммы)]]
+5. [x] [[Top K Frequent Elements (Топ К частых элементов)]]
+6. [x] [[Encode and Decode Strings (Кодирование и Декодирование строк)]]
+7. [x] [[Products of Array Except Self (Произведение массива за исключением самого элемента)]]
+8. [x] [[Valid Sudoku (Допустимое судоку)]]
+9. [x] [[Longest Consecutive Sequence (Самая длинная последовательная последовательность)]]

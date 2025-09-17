@@ -1,0 +1,5 @@
+1. [x] [[Valid Palindrome (Допустимый палиндром)]]
+2. [x] [[Two Integer Sum II (Сумма двух целых чисел II)]]
+3. [x] [[3Sum (Сумма 3-х)]]
+4. [x] [[Container With Most Water (Емкость с Большим количеством воды)]]
+5. [ ] [[Trapping Rain Water]]
