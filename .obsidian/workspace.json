@@ -4,21 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b02ce86047f513d1",
+        "id": "570d596e57910d3b",
         "type": "tabs",
         "children": [
           {
-            "id": "70e0e8ae133291e7",
+            "id": "863f4dff6e6b3f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Study/01_Еженедельные_Отчеты/Неделя 13.10.25 - 19.10.25.md",
-                "mode": "source",
-                "source": false
+                "file": "Study/03_Задачи/Задачи по учебе.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Неделя 13.10.25 - 19.10.25"
+              "icon": "lucide-trello",
+              "title": "Задачи по учебе"
             }
           }
         ]
@@ -184,8 +190,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70e0e8ae133291e7",
+  "active": "863f4dff6e6b3f96",
   "lastOpenFiles": [
+    "Study/01_Еженедельные_Отчеты/Неделя 20.10.25 - 26.10.25.md",
+    "Plans/Training/Тренировка 2.md",
+    "Plans/Training/Тренировка 3.md",
+    "Plans/Training/Тренировка 1.md",
     "Study/01_Еженедельные_Отчеты/Неделя 13.10.25 - 19.10.25.md",
     "Study/04_Конспекты/ОП.07 Экономика отрасли_КОНСПЕКТЫ.md",
     "Study/04_Конспекты/ОП.12 Менеджмент в профессиональной деятельности_КОНСПЕКТЫ.md",
@@ -193,12 +203,9 @@
     "Study/01_Еженедельные_Отчеты/Неделя 29.09.25 - 05.10.25.md",
     "Study/01_Еженедельные_Отчеты/Неделя 06.10.25 - 12.10.25.md",
     "Templates/Шаблон недели.md",
-    "Plans/Training/Тренировка 1.md",
     "Plans/Training/Тренировка 6.md",
     "Plans/Training/Тренировка 5.md",
     "Plans/Training/Тренировка 4.md",
-    "Plans/Training/Тренировка 3.md",
-    "Plans/Training/Тренировка 2.md",
     "Plans/Training schedule.md",
     "Study/06_Готовые задания/ОГСЭ.04 Иностранный язык в профессиональной деятельности/Тесты СПО решения..md",
     "Study/06_Готовые задания/ОГСЭ.04 Иностранный язык в профессиональной деятельности/Тесты СПО задания.md",
